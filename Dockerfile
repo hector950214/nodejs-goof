@@ -1,5 +1,5 @@
 # FROM node:6-stretch
-FROM node:18.8.2
+FROM adm-zip@0.4.11
 
 RUN mkdir /usr/src/goof
 RUN mkdir /tmp/extracted_files
